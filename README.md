@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-del-mar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Susurro del mar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-del-mar/) |
+| **Get License** | [Obtain a Music License for Susurro del mar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-del-mar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche te atreves a volar
+> Con mis labios quiero despertar tu sed
+> Bailando lento bajo el brillo del lunar
+> Susurro del mar, vamos a desaparecer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
