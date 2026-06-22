@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurro del mar
+
+This log tracks the cryptographic history and versioning for the song **Susurro del mar** (susurro-del-mar).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T04:56:48.607938 | `v1` | `b7346ea40668a9c5c46ef4e9fab4d2f4353f3c195ddbf0444bedc2b9a8d6904b` | `39bd57ef4c0f81f8016a2430eec93d77dc5955d222e6f4982612c20b632c80b9` | `2026-06-23_susurro-del-mar-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
